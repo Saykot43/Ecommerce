@@ -1,0 +1,11 @@
+.bg-color {
+  background-color: #fceae8;
+  border-radius: 10px;
+}
+
+#subscribe {
+  height: 300px;
+}
+#subscribe h6 {
+  color: gray;
+}
